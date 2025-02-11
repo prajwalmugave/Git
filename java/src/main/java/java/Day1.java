@@ -19,19 +19,33 @@ public class Day1 {
 		
 		@Test
 		public void demo2() {
-			System.out.println("Last");
+			System.out.println("Last 2");
 		}
 		
 		@Test
 		public void demo3() {
-			System.out.println("Last");
+			System.out.println("Last 3");
 		}
 		
 		@Test
 		public void demo4() {
-			System.out.println("Last");
+			System.out.println("Last 4");
 		}
 		
+		@Test
+		public void demo5() {
+			System.out.println("Last 5");
+		}
+		
+		@Test
+		public void demo6() {
+			System.out.println("Last 6");
+		}
+		
+		@Test
+		public void demo7() {
+			System.out.println("Last 7");
+		}
 
 	}
 }
